@@ -1,0 +1,153 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch GridBagTest",
+            "request": "launch",
+            "mainClass": "GridBagTest",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch GridTest",
+            "request": "launch",
+            "mainClass": "GridTest",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch BorderLayout",
+            "request": "launch",
+            "mainClass": "BorderLayout",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyApp",
+            "request": "launch",
+            "mainClass": "MyApp",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch Registration",
+            "request": "launch",
+            "mainClass": "Registration",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegistrationForm",
+            "request": "launch",
+            "mainClass": "RegistrationForm",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Buttons",
+            "request": "launch",
+            "mainClass": "Buttons",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckBoox",
+            "request": "launch",
+            "mainClass": "CheckBoox",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckBox",
+            "request": "launch",
+            "mainClass": "CheckBox",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch Combo",
+            "request": "launch",
+            "mainClass": "Combo",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comboo",
+            "request": "launch",
+            "mainClass": "Comboo",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListApp",
+            "request": "launch",
+            "mainClass": "ListApp",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListComponent",
+            "request": "launch",
+            "mainClass": "ListComponent",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "Advance Java_c0a423ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch Radio",
+            "request": "launch",
+            "mainClass": "Radio",
+            "projectName": "Advance Java_c0a423ff"
+        }
+    ]
+}
